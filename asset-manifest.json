@@ -1,15 +1,15 @@
 {
-  "main.css": "/marketplace-2/static/css/main.1234920d.chunk.css",
-  "main.js": "/marketplace-2/static/js/main.696439d3.chunk.js",
-  "main.js.map": "/marketplace-2/static/js/main.696439d3.chunk.js.map",
-  "static/css/1.3db10dbe.chunk.css": "/marketplace-2/static/css/1.3db10dbe.chunk.css",
-  "static/js/1.b6de2235.chunk.js": "/marketplace-2/static/js/1.b6de2235.chunk.js",
-  "static/js/1.b6de2235.chunk.js.map": "/marketplace-2/static/js/1.b6de2235.chunk.js.map",
-  "runtime~main.js": "/marketplace-2/static/js/runtime~main.5364eb78.js",
-  "runtime~main.js.map": "/marketplace-2/static/js/runtime~main.5364eb78.js.map",
-  "static/css/main.1234920d.chunk.css.map": "/marketplace-2/static/css/main.1234920d.chunk.css.map",
-  "static/css/1.3db10dbe.chunk.css.map": "/marketplace-2/static/css/1.3db10dbe.chunk.css.map",
-  "index.html": "/marketplace-2/index.html",
-  "precache-manifest.ddbd5e7df316dfd2f12a8e48c4788abb.js": "/marketplace-2/precache-manifest.ddbd5e7df316dfd2f12a8e48c4788abb.js",
-  "service-worker.js": "/marketplace-2/service-worker.js"
+  "main.css": "/marketplace-1/static/css/main.6328d08f.chunk.css",
+  "main.js": "/marketplace-1/static/js/main.87ac39d1.chunk.js",
+  "main.js.map": "/marketplace-1/static/js/main.87ac39d1.chunk.js.map",
+  "static/css/1.fc1665e4.chunk.css": "/marketplace-1/static/css/1.fc1665e4.chunk.css",
+  "static/js/1.553a40cd.chunk.js": "/marketplace-1/static/js/1.553a40cd.chunk.js",
+  "static/js/1.553a40cd.chunk.js.map": "/marketplace-1/static/js/1.553a40cd.chunk.js.map",
+  "runtime~main.js": "/marketplace-1/static/js/runtime~main.08e19445.js",
+  "runtime~main.js.map": "/marketplace-1/static/js/runtime~main.08e19445.js.map",
+  "static/css/main.6328d08f.chunk.css.map": "/marketplace-1/static/css/main.6328d08f.chunk.css.map",
+  "static/css/1.fc1665e4.chunk.css.map": "/marketplace-1/static/css/1.fc1665e4.chunk.css.map",
+  "index.html": "/marketplace-1/index.html",
+  "precache-manifest.b703ed4b75563f7b8bd84c4d845e0553.js": "/marketplace-1/precache-manifest.b703ed4b75563f7b8bd84c4d845e0553.js",
+  "service-worker.js": "/marketplace-1/service-worker.js"
 }
