@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/marketplace-1/precache-manifest.b703ed4b75563f7b8bd84c4d845e0553.js"
+  "/marketplace-2/precache-manifest.ddbd5e7df316dfd2f12a8e48c4788abb.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/marketplace-1/index.html", {
+workbox.routing.registerNavigationRoute("/marketplace-2/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
