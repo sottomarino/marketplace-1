@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/marketplace-1/static/js/runtime~main.08e19445.js"
   },
   {
-    "revision": "4fa132f3b82290c5bcc559c43fdab1eb",
+    "revision": "f766beda4bb0b8606c88208ef642df0a",
     "url": "/marketplace-1/index.html"
   }
 ];
